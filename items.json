@@ -1,0 +1,7602 @@
+[
+  {
+    "id": 1866,
+    "name": "Box of Blue Wrapping Paper",
+    "type": "misc",
+    "subtype": null,
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WrapPaperBoxBlue.webp"
+  },
+  {
+    "id": 1865,
+    "name": "Box of Fertilizer",
+    "type": "misc",
+    "subtype": null,
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/FertilizerBox.webp"
+  },
+  {
+    "id": 1868,
+    "name": "Box of Gold Wrapping Paper",
+    "type": "misc",
+    "subtype": null,
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WrapPaperBoxGold.webp"
+  },
+  {
+    "id": 1867,
+    "name": "Box of Green Wrapping Paper",
+    "type": "misc",
+    "subtype": null,
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WrapPaperBoxGreen.webp"
+  },
+  {
+    "id": 1863,
+    "name": "Box of Purple Wrapping Paper",
+    "type": "misc",
+    "subtype": null,
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WrapPaperBoxPurple.webp"
+  },
+  {
+    "id": 1861,
+    "name": "Box of Red Wrapping Paper",
+    "type": "misc",
+    "subtype": null,
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WrapPaperBoxRed.webp"
+  },
+  {
+    "id": 1871,
+    "name": "Box of Ultra Wrapping Paper",
+    "type": "misc",
+    "subtype": null,
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WrapPaperBoxUltra.webp"
+  },
+  {
+    "id": 1869,
+    "name": "Candies",
+    "type": "misc",
+    "subtype": null,
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Candies2017.webp"
+  },
+  {
+    "id": 1862,
+    "name": "Candies",
+    "type": "misc",
+    "subtype": null,
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Candies.webp"
+  },
+  {
+    "id": 1859,
+    "name": "Gifts 2015",
+    "type": "misc",
+    "subtype": null,
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gift.webp"
+  },
+  {
+    "id": 1870,
+    "name": "Mystery Key",
+    "type": "misc",
+    "subtype": null,
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Key.webp"
+  },
+  {
+    "id": 1860,
+    "name": "Skeleton Key 2018",
+    "type": "misc",
+    "subtype": null,
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SkeletonKey.webp"
+  },
+  {
+    "id": 1864,
+    "name": "Snowflake Key 2018",
+    "type": "misc",
+    "subtype": null,
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SnowflakeKey.webp"
+  },
+  {
+    "id": 51,
+    "name": "<3",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/HeartBalloon.webp"
+  },
+  {
+    "id": 15,
+    "name": "Badger",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Badger.webp"
+  },
+  {
+    "id": 68,
+    "name": "Bat",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bat_(Pet).webp"
+  },
+  {
+    "id": 47,
+    "name": "Bear",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bear.webp"
+  },
+  {
+    "id": 80,
+    "name": "Black Cat",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Black_Cat.webp"
+  },
+  {
+    "id": 45,
+    "name": "Blue Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Blue_Pumpkin_(2019).webp"
+  },
+  {
+    "id": 6,
+    "name": "Blue Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Blue_Pumpkin_(2018).webp"
+  },
+  {
+    "id": 58,
+    "name": "Carrot Bunny",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Carrot_Bunny.webp"
+  },
+  {
+    "id": 39,
+    "name": "Cat",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cat.webp"
+  },
+  {
+    "id": 78,
+    "name": "Chilly",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chilly.webp"
+  },
+  {
+    "id": 56,
+    "name": "Deathspeaker",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Deathspeaker.webp"
+  },
+  {
+    "id": 44,
+    "name": "Dog",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Dog.webp"
+  },
+  {
+    "id": 14,
+    "name": "Doge",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Doge_1783596838050.webp"
+  },
+  {
+    "id": 21,
+    "name": "Dogey",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Dogey.webp"
+  },
+  {
+    "id": 23,
+    "name": "Electro",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Electro.webp"
+  },
+  {
+    "id": 57,
+    "name": "Elf",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Elf_Pet_(2016).webp"
+  },
+  {
+    "id": 62,
+    "name": "Elf",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Elf_Pet_(2019).webp"
+  },
+  {
+    "id": 1,
+    "name": "Elitey",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Elitey.webp"
+  },
+  {
+    "id": 67,
+    "name": "Eyeball",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Eyeball.webp"
+  },
+  {
+    "id": 25,
+    "name": "Fairy",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fairy.webp"
+  },
+  {
+    "id": 60,
+    "name": "Fire Bat",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fire_Bat.webp"
+  },
+  {
+    "id": 73,
+    "name": "Fire Bat",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Fire_Bat.webp"
+  },
+  {
+    "id": 54,
+    "name": "Fire Bear",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fire_Bear.webp"
+  },
+  {
+    "id": 30,
+    "name": "Fire Bear",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Fire_Bear.webp"
+  },
+  {
+    "id": 36,
+    "name": "Fire Bunny",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fire_Bunny.webp"
+  },
+  {
+    "id": 37,
+    "name": "Fire Bunny",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Fire_Bunny.webp"
+  },
+  {
+    "id": 20,
+    "name": "Fire Cat",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fire_Cat.webp"
+  },
+  {
+    "id": 2,
+    "name": "Fire Cat",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Fire_Cat.webp"
+  },
+  {
+    "id": 22,
+    "name": "Fire Dog",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fire_Dog.webp"
+  },
+  {
+    "id": 69,
+    "name": "Fire Dog",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Fire_Dog.webp"
+  },
+  {
+    "id": 10,
+    "name": "Fire Fox",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fire_Fox.webp"
+  },
+  {
+    "id": 46,
+    "name": "Fire Fox",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Fire_Fox.webp"
+  },
+  {
+    "id": 65,
+    "name": "Fire Pig",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fire_Pig.webp"
+  },
+  {
+    "id": 35,
+    "name": "Fire Pig",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Fire_Pig.webp"
+  },
+  {
+    "id": 16,
+    "name": "Fox",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fox.webp"
+  },
+  {
+    "id": 83,
+    "name": "Frostbird",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frostbird.webp"
+  },
+  {
+    "id": 55,
+    "name": "Green Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Green_Pumpkin_(2021).webp"
+  },
+  {
+    "id": 24,
+    "name": "Green Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Green_Pumpkin_(2019).webp"
+  },
+  {
+    "id": 13,
+    "name": "Green Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Green_Pumpkin_(2018).webp"
+  },
+  {
+    "id": 74,
+    "name": "Ice Phoenix",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ice_Phoenix.webp"
+  },
+  {
+    "id": 42,
+    "name": "Icey",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Icey.webp"
+  },
+  {
+    "id": 8,
+    "name": "Jetstream",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Jetstream.webp"
+  },
+  {
+    "id": 37789413,
+    "name": "Lil' Alien",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/lil_alien_1762794746946.webp"
+  },
+  {
+    "id": 43,
+    "name": "Mechbug",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Mechbug.webp"
+  },
+  {
+    "id": 26,
+    "name": "Mr. Reindeer",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Reindeer2020_1783596842410.webp"
+  },
+  {
+    "id": 31,
+    "name": "Mr. Snowman",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowman2020_1783596845051.webp"
+  },
+  {
+    "id": 50,
+    "name": "Nobledragon",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Nobledragon.webp"
+  },
+  {
+    "id": 66,
+    "name": "Overseer Eye",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Overseer_Eye.webp"
+  },
+  {
+    "id": 9,
+    "name": "Pengy",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pengy.webp"
+  },
+  {
+    "id": 85,
+    "name": "Phoenix",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Phoenix.webp"
+  },
+  {
+    "id": 71,
+    "name": "Pig",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pig.webp"
+  },
+  {
+    "id": 5,
+    "name": "Piggy",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Piggy.webp"
+  },
+  {
+    "id": 28,
+    "name": "Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pumpkin_(2021).webp"
+  },
+  {
+    "id": 79,
+    "name": "Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pumpkin_(2020).webp"
+  },
+  {
+    "id": 33,
+    "name": "Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pumpkin_(2019).webp"
+  },
+  {
+    "id": 27,
+    "name": "Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/PumpkinPet18.webp"
+  },
+  {
+    "id": 64,
+    "name": "Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Blue_Pumpkin_(2020).webp"
+  },
+  {
+    "id": 48,
+    "name": "Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Green_Pumpkin_(2020).webp"
+  },
+  {
+    "id": 19,
+    "name": "Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Red_Pumpkin_(2020).webp"
+  },
+  {
+    "id": 75,
+    "name": "Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pumpkin_(2017).webp"
+  },
+  {
+    "id": 40,
+    "name": "Purple Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Purple_Pumpkin_(2018).webp"
+  },
+  {
+    "id": 84,
+    "name": "Red Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Red_Pumpkin_(2021).webp"
+  },
+  {
+    "id": 12,
+    "name": "Red Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Red_Pumpkin_(2019).webp"
+  },
+  {
+    "id": 82,
+    "name": "Red Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Red_Pumpkin_(2018).webp"
+  },
+  {
+    "id": 34,
+    "name": "Reindeer",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Reindeer_pet.webp"
+  },
+  {
+    "id": 41,
+    "name": "Rudolph",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Rudolph_Pet.webp"
+  },
+  {
+    "id": 81,
+    "name": "Sammy",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sammy.webp"
+  },
+  {
+    "id": 29,
+    "name": "Santa Dog",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Santa_Dog.webp"
+  },
+  {
+    "id": 11,
+    "name": "Scarecrow",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Scarecrow.webp"
+  },
+  {
+    "id": 77,
+    "name": "Seahorsey",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Seahorsey.webp"
+  },
+  {
+    "id": 38,
+    "name": "Shadow Pumpkin",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Shadow_Pumpkin.webp"
+  },
+  {
+    "id": 61,
+    "name": "Skelly",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Skelly.webp"
+  },
+  {
+    "id": 63,
+    "name": "Skully",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Skully_(Pet).webp"
+  },
+  {
+    "id": 49,
+    "name": "Snowbear",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowbear.webp"
+  },
+  {
+    "id": 32,
+    "name": "Steambird",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Steambird.webp"
+  },
+  {
+    "id": 7,
+    "name": "Tankie",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Tankie.webp"
+  },
+  {
+    "id": 17,
+    "name": "Teddy",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Teddy.webp"
+  },
+  {
+    "id": 52,
+    "name": "Traveller",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Traveller_(Pet).webp"
+  },
+  {
+    "id": 53,
+    "name": "UFO",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/UFO.webp"
+  },
+  {
+    "id": 72,
+    "name": "Vampire Bat",
+    "type": "pet",
+    "subtype": "floating",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Vampire_Bat.webp"
+  },
+  {
+    "id": 3,
+    "name": "Zombie Dog",
+    "type": "pet",
+    "subtype": "walking",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Zombie_Dog.webp"
+  },
+  {
+    "id": 740,
+    "name": "2015",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/2015.webp"
+  },
+  {
+    "id": 894,
+    "name": "8bit",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/8bit.webp"
+  },
+  {
+    "id": 347,
+    "name": "???",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Emptybringer.webp"
+  },
+  {
+    "id": 37789401,
+    "name": "Abduction",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/abduction_1761167153064.webp"
+  },
+  {
+    "id": 393,
+    "name": "Abstract",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Abstract.webp"
+  },
+  {
+    "id": 262,
+    "name": "Ace",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ace.webp"
+  },
+  {
+    "id": 619,
+    "name": "Adurite",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Adurite_(Gun).webp"
+  },
+  {
+    "id": 701,
+    "name": "Adurite",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Adurite_(Knife).webp"
+  },
+  {
+    "id": 804,
+    "name": "Alex",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Alex.webp"
+  },
+  {
+    "id": 37789407,
+    "name": "Alienbeam",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/alienbeamda_1761167187762.webp"
+  },
+  {
+    "id": 37789408,
+    "name": "Alienbeam",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/chroma_alienbeam_1761167227580.webp"
+  },
+  {
+    "id": 760,
+    "name": "Aliens",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Aliens.webp"
+  },
+  {
+    "id": 915,
+    "name": "America",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "vintage",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/America_(Vintage).webp"
+  },
+  {
+    "id": 803,
+    "name": "Amerilaser",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Amerilaser.webp"
+  },
+  {
+    "id": 646,
+    "name": "Apocalypse",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Apocalypse_(Knife).webp"
+  },
+  {
+    "id": 759,
+    "name": "Apocalypse",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Apocalypse_(Gun).webp"
+  },
+  {
+    "id": 564,
+    "name": "Aqua",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Aqua.webp"
+  },
+  {
+    "id": 37781609,
+    "name": "Aquarium",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Aquarium_K_2025.webp"
+  },
+  {
+    "id": 37781608,
+    "name": "Aquarium",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Aquarium_G_2025.webp"
+  },
+  {
+    "id": 392,
+    "name": "Arctic",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Arctic_(Knife).webp"
+  },
+  {
+    "id": 277,
+    "name": "Arctic",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Arctic_(Gun).webp"
+  },
+  {
+    "id": 781,
+    "name": "Asteroid",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Asteroid.webp"
+  },
+  {
+    "id": 900,
+    "name": "Aurora",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Aurora_Knife_(2019).webp"
+  },
+  {
+    "id": 648,
+    "name": "Aurora",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Aurora_Knife_(2021).webp"
+  },
+  {
+    "id": 628,
+    "name": "Aurora",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Aurora_Gun_(2021).webp"
+  },
+  {
+    "id": 229,
+    "name": "Aurora",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Aurora_Gun_(2019).webp"
+  },
+  {
+    "id": 811,
+    "name": "Australis",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Australis.webp"
+  },
+  {
+    "id": 445,
+    "name": "Bacon",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bacon_BW.webp"
+  },
+  {
+    "id": 675,
+    "name": "Balloons",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Balloons_(Gun).webp"
+  },
+  {
+    "id": 742,
+    "name": "Bat",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bat.webp"
+  },
+  {
+    "id": 203,
+    "name": "Bats",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bats_Knife_(2024).webp"
+  },
+  {
+    "id": 597,
+    "name": "Bats",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bats_Gun_(2024).webp"
+  },
+  {
+    "id": 472,
+    "name": "Bats",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bats_Gun_(2018).webp"
+  },
+  {
+    "id": 322,
+    "name": "Bats",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bats_Knife_(2020).webp"
+  },
+  {
+    "id": 793,
+    "name": "Bats",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bats.webp"
+  },
+  {
+    "id": 419,
+    "name": "Bats",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bats_Knife_(2018).webp"
+  },
+  {
+    "id": 220,
+    "name": "BattleAxe",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/BattleAxe.webp"
+  },
+  {
+    "id": 919,
+    "name": "BattleAxe II",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/BattleAxe_II.webp"
+  },
+  {
+    "id": 313,
+    "name": "Batwing",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Batwing.webp"
+  },
+  {
+    "id": 772,
+    "name": "Bauble",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bauble.webp"
+  },
+  {
+    "id": 880,
+    "name": "Bauble",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Bauble.webp"
+  },
+  {
+    "id": 678,
+    "name": "Beach",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Beach.webp"
+  },
+  {
+    "id": 37790573,
+    "name": "Beachy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/beachy_k_2026_1784855399301.webp"
+  },
+  {
+    "id": 37790677,
+    "name": "Beachy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/beachy_k_c_2026_1784879568284.webp"
+  },
+  {
+    "id": 783,
+    "name": "Bells",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bells.webp"
+  },
+  {
+    "id": 545,
+    "name": "Big Kill",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Big_Kill.webp"
+  },
+  {
+    "id": 276,
+    "name": "Bio",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Biogel.webp"
+  },
+  {
+    "id": 230,
+    "name": "Bioblade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bioblade.webp"
+  },
+  {
+    "id": 138,
+    "name": "Biogun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Biogun.webp"
+  },
+  {
+    "id": 840,
+    "name": "Bit",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bit.webp"
+  },
+  {
+    "id": 665,
+    "name": "Black",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Black.webp"
+  },
+  {
+    "id": 467,
+    "name": "Blaster",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Blaster.webp"
+  },
+  {
+    "id": 767,
+    "name": "Bleached",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bleached.webp"
+  },
+  {
+    "id": 37789480,
+    "name": "Blizzard",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/blizzard_g_2025_1766173513888.webp"
+  },
+  {
+    "id": 37789481,
+    "name": "Blizzard",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/blizzard_g_c_2025_1766173608585.webp"
+  },
+  {
+    "id": 836,
+    "name": "Blood",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "vintage",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Blood.webp"
+  },
+  {
+    "id": 614,
+    "name": "Bloom",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bloom.webp"
+  },
+  {
+    "id": 37790492,
+    "name": "Blossom",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/blossom_k_valentine_2026_1771321301576.webp"
+  },
+  {
+    "id": 645,
+    "name": "Blossom",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Blossom_(2016).webp"
+  },
+  {
+    "id": 253,
+    "name": "Blossom",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Blossom.webp"
+  },
+  {
+    "id": 633,
+    "name": "Blue",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Blue.webp"
+  },
+  {
+    "id": 920,
+    "name": "Blue Elite",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Blue_Elite.webp"
+  },
+  {
+    "id": 672,
+    "name": "Blue Seer",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Blue_Seer.webp"
+  },
+  {
+    "id": 684,
+    "name": "Bluesteel",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bluesteel_(Gun).webp"
+  },
+  {
+    "id": 192,
+    "name": "Bluesteel",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bluesteel_(Knife).webp"
+  },
+  {
+    "id": 556,
+    "name": "Boneblade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Boneblade.webp"
+  },
+  {
+    "id": 190,
+    "name": "Boneblade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Boneblade.webp"
+  },
+  {
+    "id": 872,
+    "name": "Bones",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bones_Knife_(2024).webp"
+  },
+  {
+    "id": 271,
+    "name": "Bones",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bones_(2020).webp"
+  },
+  {
+    "id": 159,
+    "name": "Bones",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bones_(2016).webp"
+  },
+  {
+    "id": 529,
+    "name": "Bones",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bones_(2019).webp"
+  },
+  {
+    "id": 884,
+    "name": "Boney",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bones_K_2022.webp"
+  },
+  {
+    "id": 193,
+    "name": "Borders",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Borders.webp"
+  },
+  {
+    "id": 383,
+    "name": "Borealis",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/borealis.webp"
+  },
+  {
+    "id": 873,
+    "name": "Brains",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Brains_(2016).webp"
+  },
+  {
+    "id": 189,
+    "name": "Brains",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Brains_G_2022.webp"
+  },
+  {
+    "id": 128,
+    "name": "Brains",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Brains_(2019).webp"
+  },
+  {
+    "id": 850,
+    "name": "Branches",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Branches.webp"
+  },
+  {
+    "id": 290,
+    "name": "Broken",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Broken.webp"
+  },
+  {
+    "id": 162,
+    "name": "Brown",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Brown.webp"
+  },
+  {
+    "id": 605,
+    "name": "Brush",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Brush.webp"
+  },
+  {
+    "id": 37790571,
+    "name": "Bubbles",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/bubbles_k_2026_1784855008710.webp"
+  },
+  {
+    "id": 849,
+    "name": "Bunnies",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bunnies.webp"
+  },
+  {
+    "id": 415,
+    "name": "Butterflies",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Butterflies.webp"
+  },
+  {
+    "id": 426,
+    "name": "Camo",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Camo.webp"
+  },
+  {
+    "id": 768,
+    "name": "Camo",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Camo_(Knife).webp"
+  },
+  {
+    "id": 270,
+    "name": "Candied",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Candied_G_2022.webp"
+  },
+  {
+    "id": 591,
+    "name": "Candied",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Candied_(Knife).webp"
+  },
+  {
+    "id": 790,
+    "name": "Candle",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Candle.webp"
+  },
+  {
+    "id": 885,
+    "name": "Candleflame",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Candleflame.webp"
+  },
+  {
+    "id": 480,
+    "name": "Candleflame",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Candleflame.webp"
+  },
+  {
+    "id": 890,
+    "name": "Candleflame",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Candleflame_G_2024.webp"
+  },
+  {
+    "id": 315,
+    "name": "Candles",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Candles_Knife_(2024).webp"
+  },
+  {
+    "id": 281,
+    "name": "Candy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Candy.webp"
+  },
+  {
+    "id": 784,
+    "name": "Candy Corn",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Candy_Corn_Knife_(2024).webp"
+  },
+  {
+    "id": 438,
+    "name": "Candy Corn",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/CandyCorn_G_2024.webp"
+  },
+  {
+    "id": 37789400,
+    "name": "Candy Corn",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/candycorn_1761167403213.webp"
+  },
+  {
+    "id": 37789448,
+    "name": "Candy Corn",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/candycorn_gun_1761169329895.webp"
+  },
+  {
+    "id": 757,
+    "name": "Candy Corn",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Candy_Corn_Knife_(2022).webp"
+  },
+  {
+    "id": 766,
+    "name": "Candy Corn",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Candy_Corn_Knife_(2020).webp"
+  },
+  {
+    "id": 158,
+    "name": "Candy Corn",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/CandyCorn_G_2020.webp"
+  },
+  {
+    "id": 630,
+    "name": "Candy Corn",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/CandyCorn_G_2022_1785935599170.webp"
+  },
+  {
+    "id": 316,
+    "name": "Candy Corn",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Candy_Corn_(2019).webp"
+  },
+  {
+    "id": 488,
+    "name": "Candy Swirl",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/CandySwirl_G_2019_1785935334515.webp"
+  },
+  {
+    "id": 368,
+    "name": "Candy Swirl",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/CandySwirl_K_2019.webp"
+  },
+  {
+    "id": 567,
+    "name": "CandyCorn",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/CandyCorn.webp"
+  },
+  {
+    "id": 418,
+    "name": "Cane",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cane_K_2021.webp"
+  },
+  {
+    "id": 627,
+    "name": "Cane",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cane_G_2018.webp"
+  },
+  {
+    "id": 753,
+    "name": "Cane",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cane_G_2021.webp"
+  },
+  {
+    "id": 119,
+    "name": "Cane",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cane_Knife_(2015).webp"
+  },
+  {
+    "id": 864,
+    "name": "Cane",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/CaneGun.webp"
+  },
+  {
+    "id": 774,
+    "name": "Cane",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cane_Knife_(2018).webp"
+  },
+  {
+    "id": 696,
+    "name": "Canes",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Canes_G_2023.webp"
+  },
+  {
+    "id": 653,
+    "name": "Canes",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Canes_(Knife).webp"
+  },
+  {
+    "id": 478,
+    "name": "Cardboard",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cardboard.webp"
+  },
+  {
+    "id": 907,
+    "name": "Carrot",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Carrot_G_2024.webp"
+  },
+  {
+    "id": 167,
+    "name": "Carrot",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Carrot_Knife_(2024).webp"
+  },
+  {
+    "id": 216,
+    "name": "Carrot",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Carrot_(2023).webp"
+  },
+  {
+    "id": 250,
+    "name": "Carrot",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Carrot.webp"
+  },
+  {
+    "id": 670,
+    "name": "Carrots",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/сarrots.webp"
+  },
+  {
+    "id": 288,
+    "name": "Carved",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Carved_(Knife).webp"
+  },
+  {
+    "id": 273,
+    "name": "Carved",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Carved_G_2020.webp"
+  },
+  {
+    "id": 523,
+    "name": "Cat",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cat_G_2021.webp"
+  },
+  {
+    "id": 37789409,
+    "name": "Cat Eyes",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/cat_eyes_1761167425358.webp"
+  },
+  {
+    "id": 37789411,
+    "name": "Cats",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/bats_1761167322305.webp"
+  },
+  {
+    "id": 786,
+    "name": "Caution",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Caution.webp"
+  },
+  {
+    "id": 777,
+    "name": "Cavern",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cavern_(Knife).webp"
+  },
+  {
+    "id": 416,
+    "name": "Cavern",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cavern_G_2019.webp"
+  },
+  {
+    "id": 332,
+    "name": "Celestial",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Celestial.webp"
+  },
+  {
+    "id": 156,
+    "name": "Checker",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Checker.webp"
+  },
+  {
+    "id": 174,
+    "name": "Cheddar",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cheddar.webp"
+  },
+  {
+    "id": 134,
+    "name": "Cheesy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cheesy.webp"
+  },
+  {
+    "id": 37790567,
+    "name": "Cherries",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/duckies_gun_2026_1784850345992.webp"
+  },
+  {
+    "id": 652,
+    "name": "Cherry",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cherry.webp"
+  },
+  {
+    "id": 666,
+    "name": "Chick",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/chick.webp"
+  },
+  {
+    "id": 831,
+    "name": "Chill",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chill.webp"
+  },
+  {
+    "id": 373,
+    "name": "Choco",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Choco.webp"
+  },
+  {
+    "id": 700,
+    "name": "Chromatic",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chromatic_G_2023.webp"
+  },
+  {
+    "id": 448,
+    "name": "Chromatic",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chromatic_(Knife).webp"
+  },
+  {
+    "id": 413,
+    "name": "Circuit",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Circuit.webp"
+  },
+  {
+    "id": 908,
+    "name": "Clan",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Clan.webp"
+  },
+  {
+    "id": 867,
+    "name": "Clockwork",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Clockwork.webp"
+  },
+  {
+    "id": 531,
+    "name": "Clown",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Clown_G.webp"
+  },
+  {
+    "id": 616,
+    "name": "Clown",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Clown_(Knife).webp"
+  },
+  {
+    "id": 239,
+    "name": "Clown",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Clown_G_2024.webp"
+  },
+  {
+    "id": 609,
+    "name": "Clownfish",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Clownfish_G_2024.webp"
+  },
+  {
+    "id": 736,
+    "name": "Clownfish",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Clownfish_(Knife).webp"
+  },
+  {
+    "id": 280,
+    "name": "Coal",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Coal_Knife_(2022).webp"
+  },
+  {
+    "id": 199,
+    "name": "Coal",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Coal_G_2022.webp"
+  },
+  {
+    "id": 479,
+    "name": "Coal",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Coal_G_2018.webp"
+  },
+  {
+    "id": 285,
+    "name": "Coal",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Coal_(2017).webp"
+  },
+  {
+    "id": 682,
+    "name": "Coal",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Coal_G_2021.webp"
+  },
+  {
+    "id": 370,
+    "name": "Coal",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Coal_Knife_(2021).webp"
+  },
+  {
+    "id": 227,
+    "name": "Coal",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Coal_Knife_(2018).webp"
+  },
+  {
+    "id": 37781595,
+    "name": "Coconut",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Coconut_K_2025.webp"
+  },
+  {
+    "id": 874,
+    "name": "Cold",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cold.webp"
+  },
+  {
+    "id": 534,
+    "name": "Combat",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Combat.webp"
+  },
+  {
+    "id": 762,
+    "name": "Combat II",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Combat_II.webp"
+  },
+  {
+    "id": 615,
+    "name": "Constellation",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Constellation.webp"
+  },
+  {
+    "id": 114,
+    "name": "Constellation",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Constellation.webp"
+  },
+  {
+    "id": 899,
+    "name": "Cookie",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cookie_G_2021.webp"
+  },
+  {
+    "id": 795,
+    "name": "Cookie",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cookie_(Knife).webp"
+  },
+  {
+    "id": 470,
+    "name": "Cookieblade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cookieblade.webp"
+  },
+  {
+    "id": 405,
+    "name": "Cookiecane",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cookiecane.webp"
+  },
+  {
+    "id": 734,
+    "name": "Cookiecane",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Cookiecane.webp"
+  },
+  {
+    "id": 409,
+    "name": "Copper",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Copper.webp"
+  },
+  {
+    "id": 256,
+    "name": "Corl",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Corl.webp"
+  },
+  {
+    "id": 482,
+    "name": "Corrupt",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "unique",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Corrupt.webp"
+  },
+  {
+    "id": 702,
+    "name": "Cotton Candy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cotton_Candy.webp"
+  },
+  {
+    "id": 761,
+    "name": "Cowboy",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "vintage",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gun1.webp"
+  },
+  {
+    "id": 37790684,
+    "name": "Cowboy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/cowboy_k_2026_1789749454343.webp"
+  },
+  {
+    "id": 153,
+    "name": "Cracks",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cracks_(Knife).webp"
+  },
+  {
+    "id": 374,
+    "name": "Cracks",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cracks_G_2021.webp"
+  },
+  {
+    "id": 37790491,
+    "name": "Cupid",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/cupid_k_2026_1771321133836.webp"
+  },
+  {
+    "id": 202,
+    "name": "Curse",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Curse_(Knife).webp"
+  },
+  {
+    "id": 822,
+    "name": "Cursed",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cursed_G_2024.webp"
+  },
+  {
+    "id": 141,
+    "name": "Cursed",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cursed_K_2024.webp"
+  },
+  {
+    "id": 304,
+    "name": "Damp",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Damp.webp"
+  },
+  {
+    "id": 168,
+    "name": "Darkbringer",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Darkbringer.webp"
+  },
+  {
+    "id": 837,
+    "name": "Darkbringer",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ChromaDarkbringer.webp"
+  },
+  {
+    "id": 301,
+    "name": "Darkgun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Dark_G_2023.webp"
+  },
+  {
+    "id": 862,
+    "name": "Darkknife",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Darkknife.webp"
+  },
+  {
+    "id": 498,
+    "name": "Darkness",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Darkness_G_2022.webp"
+  },
+  {
+    "id": 494,
+    "name": "Darkness",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Darkness_(Knife).webp"
+  },
+  {
+    "id": 191,
+    "name": "Darkshot",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Darkshot.webp"
+  },
+  {
+    "id": 372,
+    "name": "Darksword",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Darksword.webp"
+  },
+  {
+    "id": 686,
+    "name": "Deathshard",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Deathshard.webp"
+  },
+  {
+    "id": 875,
+    "name": "Deathshard",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Deathshard.webp"
+  },
+  {
+    "id": 492,
+    "name": "Decorated",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Decorated.webp"
+  },
+  {
+    "id": 620,
+    "name": "Deep Sea",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Deep_Sea.webp"
+  },
+  {
+    "id": 261,
+    "name": "Denis",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Denis.webp"
+  },
+  {
+    "id": 561,
+    "name": "Doge",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Doge_(Knife).webp"
+  },
+  {
+    "id": 37781612,
+    "name": "Dolphins",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Dolphins_K_2025.webp"
+  },
+  {
+    "id": 328,
+    "name": "Donut",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Donut.webp"
+  },
+  {
+    "id": 37790566,
+    "name": "Duckies",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/duckies_g_2026_1784850140550.webp"
+  },
+  {
+    "id": 525,
+    "name": "Dungeon",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Dungeon.webp"
+  },
+  {
+    "id": 819,
+    "name": "Eclipse",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Eclipse.webp"
+  },
+  {
+    "id": 713,
+    "name": "Eco",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Eco.webp"
+  },
+  {
+    "id": 232,
+    "name": "Ecto",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ecto.webp"
+  },
+  {
+    "id": 292,
+    "name": "Egg",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Egg.webp"
+  },
+  {
+    "id": 582,
+    "name": "Eggblade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Eggblade.webp"
+  },
+  {
+    "id": 871,
+    "name": "Elderwood Blade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Elderwood_Blade.webp"
+  },
+  {
+    "id": 621,
+    "name": "Elderwood Blade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Elderwood_Blade_BW.webp"
+  },
+  {
+    "id": 367,
+    "name": "Elderwood Revolver",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Elderwood_Revolver.webp"
+  },
+  {
+    "id": 794,
+    "name": "Elderwood Scythe",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Elderwood_Scythe.webp"
+  },
+  {
+    "id": 283,
+    "name": "Elf",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Elf_G_2023.webp"
+  },
+  {
+    "id": 526,
+    "name": "Elf",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Elf2017.webp"
+  },
+  {
+    "id": 95,
+    "name": "Elf",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Elf.webp"
+  },
+  {
+    "id": 913,
+    "name": "Elf",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Santa_G_2018.webp"
+  },
+  {
+    "id": 799,
+    "name": "Elf",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ElfGun.webp"
+  },
+  {
+    "id": 834,
+    "name": "Elite",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Elite.webp"
+  },
+  {
+    "id": 610,
+    "name": "Emerald",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Emerald.webp"
+  },
+  {
+    "id": 37789406,
+    "name": "Energized",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/energizedasd_1761167517035.webp"
+  },
+  {
+    "id": 37789417,
+    "name": "Energized",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/energizedhdfg_1761167480539.webp"
+  },
+  {
+    "id": 565,
+    "name": "Engraved",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Engraved.webp"
+  },
+  {
+    "id": 327,
+    "name": "Etched",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Etched.webp"
+  },
+  {
+    "id": 910,
+    "name": "Eternal",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Eternal.webp"
+  },
+  {
+    "id": 737,
+    "name": "Eternal II",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Eternal_II.webp"
+  },
+  {
+    "id": 707,
+    "name": "Eternal III",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Eternal_III.webp"
+  },
+  {
+    "id": 528,
+    "name": "Eternal IV",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Eternal_IV.webp"
+  },
+  {
+    "id": 105,
+    "name": "Eternalcane",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Eternalcane.webp"
+  },
+  {
+    "id": 300,
+    "name": "Euro",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Euro.webp"
+  },
+  {
+    "id": 507,
+    "name": "Evergreen",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Evergreen.webp"
+  },
+  {
+    "id": 297,
+    "name": "Evergreen",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Evergreen.webp"
+  },
+  {
+    "id": 687,
+    "name": "Evergun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/TreeGun2023.webp"
+  },
+  {
+    "id": 398,
+    "name": "Evergun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/TreeGun2023Chroma.webp"
+  },
+  {
+    "id": 311,
+    "name": "Eyeball",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Eyeball_(Knife).webp"
+  },
+  {
+    "id": 37789410,
+    "name": "Eyes",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/eyes_1761167539114.webp"
+  },
+  {
+    "id": 538,
+    "name": "Fade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fade.webp"
+  },
+  {
+    "id": 37789399,
+    "name": "Fall",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/fall_1761167557086.webp"
+  },
+  {
+    "id": 182,
+    "name": "Fall Camo",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/FallCamo_G_2021.webp"
+  },
+  {
+    "id": 916,
+    "name": "Fallout",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fallout.webp"
+  },
+  {
+    "id": 152,
+    "name": "Fang",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fang.webp"
+  },
+  {
+    "id": 103,
+    "name": "Fang",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Fang.webp"
+  },
+  {
+    "id": 530,
+    "name": "Fireplace",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fireplace.webp"
+  },
+  {
+    "id": 414,
+    "name": "Flames",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Flames.webp"
+  },
+  {
+    "id": 573,
+    "name": "Floatie",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Floatie_G_2024.webp"
+  },
+  {
+    "id": 387,
+    "name": "Flora",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/flora.webp"
+  },
+  {
+    "id": 37790568,
+    "name": "Floral",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/floral_g_2026_1784850402436.webp"
+  },
+  {
+    "id": 586,
+    "name": "Floral",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Floragunold.webp"
+  },
+  {
+    "id": 171,
+    "name": "Floral",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Floral_(Knife).webp"
+  },
+  {
+    "id": 859,
+    "name": "Flowerwood",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Flowerwood.webp"
+  },
+  {
+    "id": 469,
+    "name": "Flowerwood Gun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/FlowerwoodGun.webp"
+  },
+  {
+    "id": 200,
+    "name": "Forest",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Forest.webp"
+  },
+  {
+    "id": 593,
+    "name": "Fragile",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fragile_(Knife).webp"
+  },
+  {
+    "id": 90,
+    "name": "Fragile",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fragile_(Gun).webp"
+  },
+  {
+    "id": 87,
+    "name": "Frostbite",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frostbite.webp"
+  },
+  {
+    "id": 291,
+    "name": "Frosted",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frosted_(Knife).webp"
+  },
+  {
+    "id": 808,
+    "name": "Frosted",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frosted_G_2019.webp"
+  },
+  {
+    "id": 212,
+    "name": "Frostfade",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frostfade_G_2023.webp"
+  },
+  {
+    "id": 496,
+    "name": "Frostfade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frostfade_(Knife)_BW.webp"
+  },
+  {
+    "id": 676,
+    "name": "Frostflame",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frostflame gun.webp"
+  },
+  {
+    "id": 486,
+    "name": "Frostflame",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frostflame_(Knife).webp"
+  },
+  {
+    "id": 289,
+    "name": "Frostsaber",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frostsaber.webp"
+  },
+  {
+    "id": 504,
+    "name": "Frosty",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frosty_(2017).webp"
+  },
+  {
+    "id": 770,
+    "name": "Frozen",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frozen_G_2023.webp"
+  },
+  {
+    "id": 115,
+    "name": "Frozen",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frozen_Knife_(2023).webp"
+  },
+  {
+    "id": 37789460,
+    "name": "Frozen",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/frozen_k_2025_1765970472374.webp"
+  },
+  {
+    "id": 37790501,
+    "name": "Frozen",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/frozen_gun_g_2025_1771325240334.webp"
+  },
+  {
+    "id": 824,
+    "name": "Frozen",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frozen_G_2019.webp"
+  },
+  {
+    "id": 544,
+    "name": "Frozen",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frozen_(Knife).webp"
+  },
+  {
+    "id": 170,
+    "name": "Frozen",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frozen_Knife_(2022).webp"
+  },
+  {
+    "id": 217,
+    "name": "Frozen",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Frozen_G_2022.webp"
+  },
+  {
+    "id": 709,
+    "name": "Fusion",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Fusion.webp"
+  },
+  {
+    "id": 611,
+    "name": "Future",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Future.webp"
+  },
+  {
+    "id": 815,
+    "name": "Galactic",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Galactic.webp"
+  },
+  {
+    "id": 588,
+    "name": "Galaxy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Galaxy.webp"
+  },
+  {
+    "id": 683,
+    "name": "Gemstone",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gemstone.webp"
+  },
+  {
+    "id": 773,
+    "name": "Gemstone",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Gemstone.webp"
+  },
+  {
+    "id": 278,
+    "name": "Ghastly",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghastly_(Knife).webp"
+  },
+  {
+    "id": 693,
+    "name": "Ghastly",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghastly_G_2023.webp"
+  },
+  {
+    "id": 458,
+    "name": "Ghost",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "vintage",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghost.webp"
+  },
+  {
+    "id": 122,
+    "name": "Ghost",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ghost gun.webp"
+  },
+  {
+    "id": 109,
+    "name": "Ghost",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghost_(Knife).webp"
+  },
+  {
+    "id": 37790687,
+    "name": "Ghost",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ghost_g_2026_1789749663033.webp"
+  },
+  {
+    "id": 606,
+    "name": "Ghostblade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghostblade.webp"
+  },
+  {
+    "id": 746,
+    "name": "Ghostfire",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghostfire_G_2022.webp"
+  },
+  {
+    "id": 640,
+    "name": "Ghostly",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghostly_(Knife).webp"
+  },
+  {
+    "id": 723,
+    "name": "Ghosts",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghosts_Knife_(2024).webp"
+  },
+  {
+    "id": 305,
+    "name": "Ghosts",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghosts_Knife_(2023).webp"
+  },
+  {
+    "id": 575,
+    "name": "Ghosts",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghosts_(Knife).webp"
+  },
+  {
+    "id": 887,
+    "name": "Ghosts",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghosts_G_2020.webp"
+  },
+  {
+    "id": 96,
+    "name": "Ghoulish",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghoulish.webp"
+  },
+  {
+    "id": 459,
+    "name": "Gift Bag",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Giftbag_G_2020.webp"
+  },
+  {
+    "id": 554,
+    "name": "Gift Bag",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gift_Bag_(Knife).webp"
+  },
+  {
+    "id": 826,
+    "name": "Gifted",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gifted.webp"
+  },
+  {
+    "id": 527,
+    "name": "Gifts",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gifts_(2024).webp"
+  },
+  {
+    "id": 914,
+    "name": "Gifts",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gifts_G_2019.webp"
+  },
+  {
+    "id": 856,
+    "name": "Gifts",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gifts_(Knife).webp"
+  },
+  {
+    "id": 144,
+    "name": "Giftwrap",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Giftwrap.webp"
+  },
+  {
+    "id": 812,
+    "name": "Ginger",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ginger_Knife_(2018).webp"
+  },
+  {
+    "id": 828,
+    "name": "Ginger",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ginger_G_2018.webp"
+  },
+  {
+    "id": 821,
+    "name": "Ginger",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/GingerGun.webp"
+  },
+  {
+    "id": 711,
+    "name": "Ginger",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ginger_Knife_(2015).webp"
+  },
+  {
+    "id": 209,
+    "name": "Ginger Luger",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ginger luger.webp"
+  },
+  {
+    "id": 515,
+    "name": "Gingerblade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gingerblade.webp"
+  },
+  {
+    "id": 886,
+    "name": "Gingerblade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Gingerblade.webp"
+  },
+  {
+    "id": 37789463,
+    "name": "Gingerbread",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/gingerbread_k_2025_1765970705764.webp"
+  },
+  {
+    "id": 37789475,
+    "name": "Gingerbread",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/gingerbread_g_2025_1766172932258.webp"
+  },
+  {
+    "id": 855,
+    "name": "Gingerbread",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gingerbread_Knife_(2022).webp"
+  },
+  {
+    "id": 592,
+    "name": "Gingerbread",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gingerbread_(2017).webp"
+  },
+  {
+    "id": 207,
+    "name": "Gingerbread",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gingerbread_G_2021.webp"
+  },
+  {
+    "id": 433,
+    "name": "Gingerbread",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gingerbread_G_2022.webp"
+  },
+  {
+    "id": 375,
+    "name": "Gingerbread",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gingerbread_G_2019.webp"
+  },
+  {
+    "id": 142,
+    "name": "Gingerbread",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gingerbread_Knife_(2020).webp"
+  },
+  {
+    "id": 688,
+    "name": "Gingerbread",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gingerbread_Knife_(2019).webp"
+  },
+  {
+    "id": 363,
+    "name": "Gingerbread",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gingerbread_G_2020.webp"
+  },
+  {
+    "id": 37789462,
+    "name": "Gingercookie",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/gingercookie_g_2025_1765970613810.webp"
+  },
+  {
+    "id": 37789477,
+    "name": "Gingercookie",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/gingercookie_k_2025_1766173195555.webp"
+  },
+  {
+    "id": 351,
+    "name": "Gingerheart",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gingerheart.webp"
+  },
+  {
+    "id": 342,
+    "name": "Gingermint",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gingermint_G.webp"
+  },
+  {
+    "id": 493,
+    "name": "Gingerscope",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gingerscope.webp"
+  },
+  {
+    "id": 747,
+    "name": "Glitch1",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Glitch1.webp"
+  },
+  {
+    "id": 847,
+    "name": "Glitch2",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Glitch2.webp"
+  },
+  {
+    "id": 255,
+    "name": "Glowy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Glowy.webp"
+  },
+  {
+    "id": 590,
+    "name": "Golden",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "vintage",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/GoldenGun.webp"
+  },
+  {
+    "id": 37790682,
+    "name": "Golden",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/golden_k_2026_1789749226721.webp"
+  },
+  {
+    "id": 533,
+    "name": "Goo",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Goo.webp"
+  },
+  {
+    "id": 450,
+    "name": "Gothic",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gothic_(Knife).webp"
+  },
+  {
+    "id": 852,
+    "name": "Gothic",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gothic_G_2021.webp"
+  },
+  {
+    "id": 145,
+    "name": "Graffiti",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Graffiti.webp"
+  },
+  {
+    "id": 844,
+    "name": "Grave",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/GraveG.webp"
+  },
+  {
+    "id": 563,
+    "name": "Grave",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Grave_(Knife).webp"
+  },
+  {
+    "id": 423,
+    "name": "Green",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Green.webp"
+  },
+  {
+    "id": 703,
+    "name": "Green Elite",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Green_Elite.webp"
+  },
+  {
+    "id": 681,
+    "name": "Green Fire",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Green_Fire.webp"
+  },
+  {
+    "id": 188,
+    "name": "Green Luger",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/green luger.webp"
+  },
+  {
+    "id": 510,
+    "name": "Green Marble",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Green_Marble.webp"
+  },
+  {
+    "id": 724,
+    "name": "Grind",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Grind.webp"
+  },
+  {
+    "id": 710,
+    "name": "HL2",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/HL2.webp"
+  },
+  {
+    "id": 548,
+    "name": "Hacker",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Hacker.webp"
+  },
+  {
+    "id": 343,
+    "name": "Hallow's Blade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Hallow_27s_Blade.webp"
+  },
+  {
+    "id": 925,
+    "name": "Hallow's Edge",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Hallow_27s_Edge.webp"
+  },
+  {
+    "id": 502,
+    "name": "Hallowgun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Hallowgun.webp"
+  },
+  {
+    "id": 717,
+    "name": "Hallowscythe",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Hallowscythe.webp"
+  },
+  {
+    "id": 252,
+    "name": "Handsaw",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Handsaw.webp"
+  },
+  {
+    "id": 589,
+    "name": "Hardened",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Hardened.webp"
+  },
+  {
+    "id": 173,
+    "name": "Harvester",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Harvester.webp"
+  },
+  {
+    "id": 143,
+    "name": "Haunted",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Haunted_(2021).webp"
+  },
+  {
+    "id": 37789412,
+    "name": "Haunted",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/haunted_1761167590103.webp"
+  },
+  {
+    "id": 421,
+    "name": "Haunted",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/HauntedG.webp"
+  },
+  {
+    "id": 600,
+    "name": "Haunted",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Haunted_(Knife).webp"
+  },
+  {
+    "id": 440,
+    "name": "Hazard",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Hazard_(Knife).webp"
+  },
+  {
+    "id": 231,
+    "name": "Hazard",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Hazard_G_2022.webp"
+  },
+  {
+    "id": 206,
+    "name": "Hazmat",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Hazmat.webp"
+  },
+  {
+    "id": 427,
+    "name": "Heart",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Heart.webp"
+  },
+  {
+    "id": 37790498,
+    "name": "Heart Wand",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/heart_wand_k_2026_1771322684281.webp"
+  },
+  {
+    "id": 37790528,
+    "name": "Heart Wand",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/heart_wand_k_c_2026_1783596590318.webp"
+  },
+  {
+    "id": 425,
+    "name": "Heartblade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Heartblade.webp"
+  },
+  {
+    "id": 37790497,
+    "name": "Heartbreak",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/heartbreak_g_valentine_2026_1771322520494.webp"
+  },
+  {
+    "id": 37790487,
+    "name": "Hearts",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/hearts_k_valentin_2026_1771321040963.webp"
+  },
+  {
+    "id": 407,
+    "name": "Hearts",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Hearts.webp"
+  },
+  {
+    "id": 334,
+    "name": "Heat",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Heat.webp"
+  },
+  {
+    "id": 546,
+    "name": "Heat",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Heat.webp"
+  },
+  {
+    "id": 180,
+    "name": "High Tech",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/High_Tech.webp"
+  },
+  {
+    "id": 490,
+    "name": "Hive",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Hive.webp"
+  },
+  {
+    "id": 337,
+    "name": "Holly",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Holly_Knife_(2018).webp"
+  },
+  {
+    "id": 924,
+    "name": "Holly",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Holly_G_2018.webp"
+  },
+  {
+    "id": 37789404,
+    "name": "Hologram",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/hologramsad_1761167633220.webp"
+  },
+  {
+    "id": 37789421,
+    "name": "Hologram",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/hologram_1761167617096.webp"
+  },
+  {
+    "id": 587,
+    "name": "Hot Chocolate",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Hot_Chocolate.webp"
+  },
+  {
+    "id": 909,
+    "name": "Hunter",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Hunter.webp"
+  },
+  {
+    "id": 274,
+    "name": "Ice",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ice.webp"
+  },
+  {
+    "id": 827,
+    "name": "Ice Camo",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/IceCamo_G_2021.webp"
+  },
+  {
+    "id": 728,
+    "name": "Ice Dragon",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ice_Dragon.webp"
+  },
+  {
+    "id": 814,
+    "name": "Ice Shard",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ice_Shard.webp"
+  },
+  {
+    "id": 397,
+    "name": "Icebeam",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Icebeam.webp"
+  },
+  {
+    "id": 629,
+    "name": "Iceblaster",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Iceblaster.webp"
+  },
+  {
+    "id": 748,
+    "name": "Icebreaker",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Icebreaker.webp"
+  },
+  {
+    "id": 408,
+    "name": "Icecracker",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Icecracker.webp"
+  },
+  {
+    "id": 37790572,
+    "name": "Icecream",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/icecream_k_2026_1784855166673.webp"
+  },
+  {
+    "id": 37790679,
+    "name": "Icecream",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/icecream_k_c_2026_1784879566751.webp"
+  },
+  {
+    "id": 719,
+    "name": "Icedriller",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Icedriller_G_2020.webp"
+  },
+  {
+    "id": 93,
+    "name": "Iceflake",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Iceflake.webp"
+  },
+  {
+    "id": 787,
+    "name": "Icepiercer",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Icepiercer.webp"
+  },
+  {
+    "id": 832,
+    "name": "Icewing",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Icewing.webp"
+  },
+  {
+    "id": 242,
+    "name": "Icicles",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Icicles_(Knife).webp"
+  },
+  {
+    "id": 912,
+    "name": "Icicles",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Icicles_G_2018.webp"
+  },
+  {
+    "id": 704,
+    "name": "Igloo",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Igloo_(Knife).webp"
+  },
+  {
+    "id": 466,
+    "name": "Igloo",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Igloo.webp"
+  },
+  {
+    "id": 842,
+    "name": "Imbued",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Imbued.webp"
+  },
+  {
+    "id": 196,
+    "name": "Indy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Indy.webp"
+  },
+  {
+    "id": 553,
+    "name": "Infected",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Infected_Knife_(2022).webp"
+  },
+  {
+    "id": 107,
+    "name": "Infected",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Infected_1783596840134.webp"
+  },
+  {
+    "id": 110,
+    "name": "Infected",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/infected.webp"
+  },
+  {
+    "id": 318,
+    "name": "Infiltrator",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Infiltrator.webp"
+  },
+  {
+    "id": 818,
+    "name": "Iron",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Iron.webp"
+  },
+  {
+    "id": 929,
+    "name": "JD",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/JD.webp"
+  },
+  {
+    "id": 792,
+    "name": "Jack",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Jack.webp"
+  },
+  {
+    "id": 624,
+    "name": "Jellyfish",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Jellyfish_(Knife).webp"
+  },
+  {
+    "id": 519,
+    "name": "Jigsaw",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Jigsaw.webp"
+  },
+  {
+    "id": 829,
+    "name": "Jinglegun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Jinglegun.webp"
+  },
+  {
+    "id": 848,
+    "name": "Juice",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Aid.webp"
+  },
+  {
+    "id": 366,
+    "name": "Korblox",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Korblox.webp"
+  },
+  {
+    "id": 764,
+    "name": "Kraken",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Kraken.webp"
+  },
+  {
+    "id": 825,
+    "name": "Krypto",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Krypto.webp"
+  },
+  {
+    "id": 104,
+    "name": "Lantern",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Lantern_(Knife).webp"
+  },
+  {
+    "id": 474,
+    "name": "Laser",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Laser.webp"
+  },
+  {
+    "id": 785,
+    "name": "Laser",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "vintage",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Disint.webp"
+  },
+  {
+    "id": 580,
+    "name": "Laser",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/LaserChroma.webp"
+  },
+  {
+    "id": 37790685,
+    "name": "Laser",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/laser_k_2026_1789749507513.webp"
+  },
+  {
+    "id": 547,
+    "name": "Latte",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Latte_G_2023.webp"
+  },
+  {
+    "id": 509,
+    "name": "Latte",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Latte_(Knife).webp"
+  },
+  {
+    "id": 37781604,
+    "name": "Lava",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Lava_G_2025.webp"
+  },
+  {
+    "id": 37781603,
+    "name": "Lava",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Lava_K_2025.webp"
+  },
+  {
+    "id": 835,
+    "name": "Leaf",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Leaf.webp"
+  },
+  {
+    "id": 37781594,
+    "name": "Leaves",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Leaves_K_2025.webp"
+  },
+  {
+    "id": 148,
+    "name": "Leaves",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Leaves_G_2024.webp"
+  },
+  {
+    "id": 729,
+    "name": "Leaves",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Leaves.webp"
+  },
+  {
+    "id": 608,
+    "name": "Lightbringer",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Lightbringer.webp"
+  },
+  {
+    "id": 769,
+    "name": "Lightbringer",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ChromaLightbringer.webp"
+  },
+  {
+    "id": 37789466,
+    "name": "Lights",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Lights_g_2025_1765970908025.webp"
+  },
+  {
+    "id": 37790504,
+    "name": "Lights",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/lights_k_2025_1771325547378.webp"
+  },
+  {
+    "id": 508,
+    "name": "Lights",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Lights_(Knife).webp"
+  },
+  {
+    "id": 340,
+    "name": "Lights",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Lights_G_2019.webp"
+  },
+  {
+    "id": 892,
+    "name": "Linked",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Linked.webp"
+  },
+  {
+    "id": 594,
+    "name": "Log",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Log.webp"
+  },
+  {
+    "id": 888,
+    "name": "Logchopper",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Logchopper.webp"
+  },
+  {
+    "id": 727,
+    "name": "Logcutter",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Logcutter.webp"
+  },
+  {
+    "id": 358,
+    "name": "Love",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Love_(Knife).webp"
+  },
+  {
+    "id": 833,
+    "name": "Love",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Love_K_2023.webp"
+  },
+  {
+    "id": 754,
+    "name": "Love",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/LoveGun.webp"
+  },
+  {
+    "id": 435,
+    "name": "Lovely",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Lovely.webp"
+  },
+  {
+    "id": 186,
+    "name": "Lucky",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Lucky.webp"
+  },
+  {
+    "id": 485,
+    "name": "Luger",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Luger.webp"
+  },
+  {
+    "id": 756,
+    "name": "Luger",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Luger chroma.webp"
+  },
+  {
+    "id": 506,
+    "name": "Lugercane",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Lugercane.webp"
+  },
+  {
+    "id": 461,
+    "name": "Magma",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Magma_K_2021.webp"
+  },
+  {
+    "id": 355,
+    "name": "Magma",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Magma_G_2021.webp"
+  },
+  {
+    "id": 181,
+    "name": "Magma",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Magma_(Knife).webp"
+  },
+  {
+    "id": 243,
+    "name": "Makeshift",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Makeshift.webp"
+  },
+  {
+    "id": 275,
+    "name": "Makeshift",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Makeshift_(Knife).webp"
+  },
+  {
+    "id": 634,
+    "name": "Marble",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Marble.webp"
+  },
+  {
+    "id": 389,
+    "name": "Marina",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Marina.webp"
+  },
+  {
+    "id": 131,
+    "name": "Meadow",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/meadows.webp"
+  },
+  {
+    "id": 129,
+    "name": "Melon",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Melon.webp"
+  },
+  {
+    "id": 810,
+    "name": "Melon",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Melon_G_2023.webp"
+  },
+  {
+    "id": 456,
+    "name": "Meltdown",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Meltdown.webp"
+  },
+  {
+    "id": 210,
+    "name": "Midnight",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Midnight.webp"
+  },
+  {
+    "id": 791,
+    "name": "Minty",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Minty.webp"
+  },
+  {
+    "id": 739,
+    "name": "Missing",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Missing.webp"
+  },
+  {
+    "id": 926,
+    "name": "Mistletoe",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Mistletoe_(Knife).webp"
+  },
+  {
+    "id": 857,
+    "name": "Mistletoe",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Mistletoe_G_2022.webp"
+  },
+  {
+    "id": 314,
+    "name": "Molten",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Molten_(Knife).webp"
+  },
+  {
+    "id": 404,
+    "name": "Molten",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/MoltenGun.webp"
+  },
+  {
+    "id": 357,
+    "name": "Monster",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Monster_Knife_(2024).webp"
+  },
+  {
+    "id": 839,
+    "name": "Monster",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Monster.webp"
+  },
+  {
+    "id": 843,
+    "name": "Moon",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Moon.webp"
+  },
+  {
+    "id": 241,
+    "name": "Moonlight",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Moonlight_G_2022.webp"
+  },
+  {
+    "id": 551,
+    "name": "Moons",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Moons_Knife_(2024).webp"
+  },
+  {
+    "id": 649,
+    "name": "Moons",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Moons.webp"
+  },
+  {
+    "id": 223,
+    "name": "Mummified",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Mummified.webp"
+  },
+  {
+    "id": 295,
+    "name": "Mummy",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Mummy_G_2020.webp"
+  },
+  {
+    "id": 308,
+    "name": "Mummy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Mummy_Knife_(2020).webp"
+  },
+  {
+    "id": 731,
+    "name": "Mummy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Mummy_Knife_(2018).webp"
+  },
+  {
+    "id": 489,
+    "name": "Mummy",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Mummy.webp"
+  },
+  {
+    "id": 350,
+    "name": "Mummy",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/MummyG2018.webp"
+  },
+  {
+    "id": 511,
+    "name": "Mummy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Mummy_(2017).webp"
+  },
+  {
+    "id": 441,
+    "name": "Musical",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Musical.webp"
+  },
+  {
+    "id": 870,
+    "name": "Nebula",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Nebula.webp"
+  },
+  {
+    "id": 37781615,
+    "name": "Neon",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Neon_G_2025.webp"
+  },
+  {
+    "id": 574,
+    "name": "Neon",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Neon_G_2023.webp"
+  },
+  {
+    "id": 187,
+    "name": "Neon",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Neon.webp"
+  },
+  {
+    "id": 37790564,
+    "name": "Neopolitan",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/neopolitan_k_2026_1784849864339.webp"
+  },
+  {
+    "id": 604,
+    "name": "Nether",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Nether.webp"
+  },
+  {
+    "id": 177,
+    "name": "News",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/News.webp"
+  },
+  {
+    "id": 722,
+    "name": "Night",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Night.webp"
+  },
+  {
+    "id": 636,
+    "name": "Nightblade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Nightblade.webp"
+  },
+  {
+    "id": 733,
+    "name": "Nightfire",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Nightfire.webp"
+  },
+  {
+    "id": 555,
+    "name": "Nightsky",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/nightsky.webp"
+  },
+  {
+    "id": 481,
+    "name": "Nightstar",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/nightstar.webp"
+  },
+  {
+    "id": 671,
+    "name": "Nik's Scythe",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Nik_27s_Scythe.webp"
+  },
+  {
+    "id": 817,
+    "name": "Nova",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Nova_improved.webp"
+  },
+  {
+    "id": 602,
+    "name": "Nuke",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Nuke_G_2023.webp"
+  },
+  {
+    "id": 201,
+    "name": "Nutcracker",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Nutcracker.webp"
+  },
+  {
+    "id": 744,
+    "name": "Ocean",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ocean_G.webp"
+  },
+  {
+    "id": 233,
+    "name": "Oily",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Oily.webp"
+  },
+  {
+    "id": 596,
+    "name": "Old Glory",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Old_Glory.webp"
+  },
+  {
+    "id": 644,
+    "name": "Ollie",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ollie.webp"
+  },
+  {
+    "id": 226,
+    "name": "Orange",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Orange.webp"
+  },
+  {
+    "id": 540,
+    "name": "Orange Marble",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Orange_Marble.webp"
+  },
+  {
+    "id": 853,
+    "name": "Orange Seer",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Orange_Seer.webp"
+  },
+  {
+    "id": 37790508,
+    "name": "Ornament",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ornament_k_2024_1771326144936.webp"
+  },
+  {
+    "id": 326,
+    "name": "Ornament",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ornament1_(Knife).webp"
+  },
+  {
+    "id": 37790531,
+    "name": "Ornament",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ornament_k_c_2024_1771326190121.webp"
+  },
+  {
+    "id": 264,
+    "name": "Ornament1",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ornament1Gun.webp"
+  },
+  {
+    "id": 395,
+    "name": "Ornament2",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ornament2_(Knife).webp"
+  },
+  {
+    "id": 807,
+    "name": "Ornament2",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ornament2Gun.webp"
+  },
+  {
+    "id": 37789464,
+    "name": "Ornaments",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ornaments_k_2025_1765970762294.webp"
+  },
+  {
+    "id": 680,
+    "name": "Ornaments",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ornaments_(Knife).webp"
+  },
+  {
+    "id": 841,
+    "name": "Ornaments",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ornaments_G_2020.webp"
+  },
+  {
+    "id": 732,
+    "name": "Overseer",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Overseer_(Knife).webp"
+  },
+  {
+    "id": 902,
+    "name": "Overseer",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Overseer.webp"
+  },
+  {
+    "id": 329,
+    "name": "Painted",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Painted_G_2023.webp"
+  },
+  {
+    "id": 224,
+    "name": "Painted",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Painted_(Knife).webp"
+  },
+  {
+    "id": 495,
+    "name": "Palms",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Palms_(Knife).webp"
+  },
+  {
+    "id": 657,
+    "name": "Palms",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Palms_G_2024.webp"
+  },
+  {
+    "id": 903,
+    "name": "Paper",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Paper.webp"
+  },
+  {
+    "id": 164,
+    "name": "Passion",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Passion.webp"
+  },
+  {
+    "id": 571,
+    "name": "Patrick",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Patrick.webp"
+  },
+  {
+    "id": 37790493,
+    "name": "Paws",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/paws_g_valentine_2026_1771321360945.webp"
+  },
+  {
+    "id": 211,
+    "name": "Pea",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pea.webp"
+  },
+  {
+    "id": 505,
+    "name": "Pearl",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pearl.webp"
+  },
+  {
+    "id": 895,
+    "name": "Pearlshine",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pearl_G.webp"
+  },
+  {
+    "id": 37790503,
+    "name": "Penguin",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/penguin_k_2025_1771325490416.webp"
+  },
+  {
+    "id": 37789468,
+    "name": "Peppermint",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/peppermint_k_2025_1765971023785.webp"
+  },
+  {
+    "id": 279,
+    "name": "Peppermint",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Peppermint.webp"
+  },
+  {
+    "id": 37790502,
+    "name": "Peppermint",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/peppermint_g_2025_1771325364878.webp"
+  },
+  {
+    "id": 130,
+    "name": "Phantom",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Phantom2022.webp"
+  },
+  {
+    "id": 268,
+    "name": "Phantom",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Phantom.webp"
+  },
+  {
+    "id": 125,
+    "name": "Phaser",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "vintage",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Phaser.webp"
+  },
+  {
+    "id": 37790681,
+    "name": "Phaser",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/phaser_k_2026_1789749076227.webp"
+  },
+  {
+    "id": 37790569,
+    "name": "Pier",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/pier_k_2026_1784850501876.webp"
+  },
+  {
+    "id": 725,
+    "name": "Pine",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pine_G_2019.webp"
+  },
+  {
+    "id": 437,
+    "name": "Pine",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pine_K_2019.webp"
+  },
+  {
+    "id": 662,
+    "name": "Pink",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/LMFAO.webp"
+  },
+  {
+    "id": 503,
+    "name": "Pirate",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pirate.webp"
+  },
+  {
+    "id": 476,
+    "name": "Pixel",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pixel.webp"
+  },
+  {
+    "id": 37790494,
+    "name": "Plaid",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/plaid_g_valentine_2026_1771321432140.webp"
+  },
+  {
+    "id": 771,
+    "name": "Plasmabeam",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Plasmabeam.webp"
+  },
+  {
+    "id": 166,
+    "name": "Plasmablade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Plasmablade.webp"
+  },
+  {
+    "id": 532,
+    "name": "Plasmite",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Plasmite.webp"
+  },
+  {
+    "id": 37789476,
+    "name": "Polar Bear",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/polar_bear_k_2025_1766173097909.webp"
+  },
+  {
+    "id": 37781600,
+    "name": "Pool",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pool_K_2025.webp"
+  },
+  {
+    "id": 613,
+    "name": "Pool Noodle",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Noodle_K_2023.webp"
+  },
+  {
+    "id": 37781606,
+    "name": "Pop Art",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/PopArt_G_2025.webp"
+  },
+  {
+    "id": 37781605,
+    "name": "Pop Art",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/PopArt_K_2025.webp"
+  },
+  {
+    "id": 512,
+    "name": "Popsicle",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Popsicle_G_2024.webp"
+  },
+  {
+    "id": 238,
+    "name": "Popsicle",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Popsicle_K_2023.webp"
+  },
+  {
+    "id": 689,
+    "name": "Portal",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Portal_K_2020.webp"
+  },
+  {
+    "id": 518,
+    "name": "Portal",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Portal_G_2020.webp"
+  },
+  {
+    "id": 800,
+    "name": "Potion",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Potion.webp"
+  },
+  {
+    "id": 578,
+    "name": "Potion",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/PotionG2018.webp"
+  },
+  {
+    "id": 444,
+    "name": "Potion",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/PotionK2018.webp"
+  },
+  {
+    "id": 863,
+    "name": "Predator",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Predator.webp"
+  },
+  {
+    "id": 854,
+    "name": "Predator",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/PredatorKnife.webp"
+  },
+  {
+    "id": 386,
+    "name": "Present",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Present_K_2023.webp"
+  },
+  {
+    "id": 585,
+    "name": "Present",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Present.webp"
+  },
+  {
+    "id": 178,
+    "name": "Prince",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "vintage",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/TimeKnife.webp"
+  },
+  {
+    "id": 37790686,
+    "name": "Prince",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/prince_g_2026_1789749598014.webp"
+  },
+  {
+    "id": 923,
+    "name": "Prism",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Prism.webp"
+  },
+  {
+    "id": 116,
+    "name": "Prismatic",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Prismatic.webp"
+  },
+  {
+    "id": 37789449,
+    "name": "Pumpkin",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/pumpkin_knife_2025_1761169440283.webp"
+  },
+  {
+    "id": 667,
+    "name": "Pumpkin",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pumpkin_G_2023.webp"
+  },
+  {
+    "id": 598,
+    "name": "Pumpkin",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pumpkin_K_2020.webp"
+  },
+  {
+    "id": 868,
+    "name": "Pumpkin",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/PumpkinPatch.webp"
+  },
+  {
+    "id": 37789402,
+    "name": "Pumpkin Patch",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/pumpkin_patch_1761167681516.webp"
+  },
+  {
+    "id": 661,
+    "name": "Pumpkin Pie",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/PumpkinPie_K_2023.webp"
+  },
+  {
+    "id": 763,
+    "name": "Pumpking",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Pumpking.webp"
+  },
+  {
+    "id": 749,
+    "name": "Purple",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/purple_old.webp"
+  },
+  {
+    "id": 330,
+    "name": "Purple Seer",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Purple_Seer.webp"
+  },
+  {
+    "id": 603,
+    "name": "RB Knife",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/RBKnife.webp"
+  },
+  {
+    "id": 204,
+    "name": "RIP",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/RIP.webp"
+  },
+  {
+    "id": 721,
+    "name": "Rainbow",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/RainbowGun.webp"
+  },
+  {
+    "id": 663,
+    "name": "Rainbow",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Rainbow.webp"
+  },
+  {
+    "id": 524,
+    "name": "Rainbow",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Rainbow_K.webp"
+  },
+  {
+    "id": 176,
+    "name": "Rainbow Gun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Rainbow_G.webp"
+  },
+  {
+    "id": 37789395,
+    "name": "Raygun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/raygun_1762794729046.webp"
+  },
+  {
+    "id": 37789396,
+    "name": "Raygun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/chroma_raygun_1761167457451.webp"
+  },
+  {
+    "id": 487,
+    "name": "Red",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snoop_1783596912853.webp"
+  },
+  {
+    "id": 462,
+    "name": "Red Fire",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/RedFire.webp"
+  },
+  {
+    "id": 349,
+    "name": "Red Luger",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Red luger.webp"
+  },
+  {
+    "id": 776,
+    "name": "Red Seer",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Red_Seer.webp"
+  },
+  {
+    "id": 536,
+    "name": "Reindeer",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Reindeer.webp"
+  },
+  {
+    "id": 37790513,
+    "name": "Reindeer",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/reindeer_k_2025_1783596854183.webp"
+  },
+  {
+    "id": 537,
+    "name": "Reptile",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Reptile.webp"
+  },
+  {
+    "id": 37781614,
+    "name": "Retro",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Retro_K_2025.webp"
+  },
+  {
+    "id": 715,
+    "name": "Ribbon",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ribbon_K_2023.webp"
+  },
+  {
+    "id": 101,
+    "name": "Ribbons",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ribbons.webp"
+  },
+  {
+    "id": 172,
+    "name": "Ripper",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ripper.webp"
+  },
+  {
+    "id": 218,
+    "name": "Ripper",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ripper_K_2020.webp"
+  },
+  {
+    "id": 562,
+    "name": "Ritual",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ritual_G_2024.webp"
+  },
+  {
+    "id": 626,
+    "name": "Robot",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Robot_K_2024.webp"
+  },
+  {
+    "id": 743,
+    "name": "Rose",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Rose_K_2023.webp"
+  },
+  {
+    "id": 123,
+    "name": "Roses",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Roses.webp"
+  },
+  {
+    "id": 364,
+    "name": "Rune",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Rune.webp"
+  },
+  {
+    "id": 390,
+    "name": "Rupture",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Bleed.webp"
+  },
+  {
+    "id": 184,
+    "name": "Sakura",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sakura_K.webp"
+  },
+  {
+    "id": 37790563,
+    "name": "Sand",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/sand_k2026_1784849648903.webp"
+  },
+  {
+    "id": 37790575,
+    "name": "Sands",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/sandy_g_2026_1784855450612.webp"
+  },
+  {
+    "id": 37790678,
+    "name": "Sands",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/sands_g_c_2026_1784879569860.webp"
+  },
+  {
+    "id": 643,
+    "name": "Sandy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sandy.webp"
+  },
+  {
+    "id": 309,
+    "name": "Sandy",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sandy_G_2024_1785935612034.webp"
+  },
+  {
+    "id": 108,
+    "name": "Santa",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Santa_(2017).webp"
+  },
+  {
+    "id": 789,
+    "name": "Santa",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Santa_K_2018.webp"
+  },
+  {
+    "id": 779,
+    "name": "Santa",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Santa_G_2023.webp"
+  },
+  {
+    "id": 124,
+    "name": "Santa",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Santa_Gun_(2015).webp"
+  },
+  {
+    "id": 521,
+    "name": "Santa's Magic",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SantasMagic.webp"
+  },
+  {
+    "id": 549,
+    "name": "Santa's Spirit",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SantasSpirit.webp"
+  },
+  {
+    "id": 92,
+    "name": "Saw",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Saw.webp"
+  },
+  {
+    "id": 712,
+    "name": "Saw",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SawChroma.webp"
+  },
+  {
+    "id": 98,
+    "name": "Scarf",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Scarf.webp"
+  },
+  {
+    "id": 607,
+    "name": "Scratch",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Scratch.webp"
+  },
+  {
+    "id": 906,
+    "name": "Scratch",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ScratchBlue.webp"
+  },
+  {
+    "id": 371,
+    "name": "Seer",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Seer.webp"
+  },
+  {
+    "id": 113,
+    "name": "Seer",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Seer.webp"
+  },
+  {
+    "id": 738,
+    "name": "Shaded",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Shaded.webp"
+  },
+  {
+    "id": 269,
+    "name": "Shadow",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "vintage",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ShadowKnife.webp"
+  },
+  {
+    "id": 37790683,
+    "name": "Shadow",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/shadow_g_2026_1789749389052.webp"
+  },
+  {
+    "id": 394,
+    "name": "Shark",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Shark.webp"
+  },
+  {
+    "id": 432,
+    "name": "Shark",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SharkChroma.webp"
+  },
+  {
+    "id": 612,
+    "name": "Sharky",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sharky_K_2024.webp"
+  },
+  {
+    "id": 307,
+    "name": "Shiny",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/MLG.webp"
+  },
+  {
+    "id": 369,
+    "name": "Sidewinder",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Dew.webp"
+  },
+  {
+    "id": 650,
+    "name": "Silent Night",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SilentNight_K_2020.webp"
+  },
+  {
+    "id": 160,
+    "name": "Silent Night",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SilentNight_G_2020.webp"
+  },
+  {
+    "id": 911,
+    "name": "Sketch",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sketch.webp"
+  },
+  {
+    "id": 927,
+    "name": "Sketchy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SketchYT.webp"
+  },
+  {
+    "id": 500,
+    "name": "Skool",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Skool.webp"
+  },
+  {
+    "id": 454,
+    "name": "Skulls",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Skulls.webp"
+  },
+  {
+    "id": 102,
+    "name": "Skulls",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Skulls_(2021).webp"
+  },
+  {
+    "id": 37781613,
+    "name": "Skyline",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Skyline_K_2025.webp"
+  },
+  {
+    "id": 782,
+    "name": "Slashed",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Slashed_K_2020.webp"
+  },
+  {
+    "id": 718,
+    "name": "Slasher",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Slasher.webp"
+  },
+  {
+    "id": 286,
+    "name": "Slasher",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SlasherChroma.webp"
+  },
+  {
+    "id": 901,
+    "name": "Slate",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Slate.webp"
+  },
+  {
+    "id": 335,
+    "name": "Sleigh",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/sleigh.webp"
+  },
+  {
+    "id": 339,
+    "name": "Slime",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SlimeK.webp"
+  },
+  {
+    "id": 716,
+    "name": "Slime",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SlimeG.webp"
+  },
+  {
+    "id": 550,
+    "name": "Slimy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SlimyK.webp"
+  },
+  {
+    "id": 294,
+    "name": "Snakebite",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SnakebiteG.webp"
+  },
+  {
+    "id": 668,
+    "name": "Snakebite",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SnakebiteK.webp"
+  },
+  {
+    "id": 37789458,
+    "name": "Snow Dagger",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/snow_dagger_k_2025_1765968028543.webp"
+  },
+  {
+    "id": 37789459,
+    "name": "Snow Dagger",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/snow_dagger_k_c_2025_1765970357096.webp"
+  },
+  {
+    "id": 37789467,
+    "name": "Snowball",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/snowball_k_20205_1765970971460.webp"
+  },
+  {
+    "id": 37789473,
+    "name": "Snowball",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/snowball_g_snow_2025_1766172715619.webp"
+  },
+  {
+    "id": 37789469,
+    "name": "Snowcannon",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/snowcannon_g_2025_1765971129064.webp"
+  },
+  {
+    "id": 37789470,
+    "name": "Snowcannon",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/snowcannon_g_c_2025_1765971209845.webp"
+  },
+  {
+    "id": 484,
+    "name": "Snowfall",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowfall_K_2023.webp"
+  },
+  {
+    "id": 918,
+    "name": "Snowflake",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowflake.webp"
+  },
+  {
+    "id": 635,
+    "name": "Snowflake",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowflake_G_2018.webp"
+  },
+  {
+    "id": 341,
+    "name": "Snowflake",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowflake_G_2023.webp"
+  },
+  {
+    "id": 618,
+    "name": "Snowflake",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowflake_G_2022.webp"
+  },
+  {
+    "id": 780,
+    "name": "Snowflake",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowflake_K_2022.webp"
+  },
+  {
+    "id": 449,
+    "name": "Snowflake",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowflake_K_2018.webp"
+  },
+  {
+    "id": 117,
+    "name": "Snowflakes",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowflakes_(2020).webp"
+  },
+  {
+    "id": 797,
+    "name": "Snowflakes",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowflakes_K_2019.webp"
+  },
+  {
+    "id": 88,
+    "name": "Snowflakes",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowflakes_(Gun).webp"
+  },
+  {
+    "id": 517,
+    "name": "Snowglobe",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowglobe_K_2023.webp"
+  },
+  {
+    "id": 146,
+    "name": "Snowman",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowman_K_2022.webp"
+  },
+  {
+    "id": 365,
+    "name": "Snowman",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowman_K_2018.webp"
+  },
+  {
+    "id": 150,
+    "name": "Snowman",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowman_G_2022.webp"
+  },
+  {
+    "id": 406,
+    "name": "Snowman",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowman_G_2023.webp"
+  },
+  {
+    "id": 151,
+    "name": "Snowman",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowman_K_2024.webp"
+  },
+  {
+    "id": 501,
+    "name": "Snowman",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowman_K_2021.webp"
+  },
+  {
+    "id": 861,
+    "name": "Snowman",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowman_G_2021.webp"
+  },
+  {
+    "id": 247,
+    "name": "Snowman",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowman_G_2018.webp"
+  },
+  {
+    "id": 132,
+    "name": "Snowman",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SnowmanGun.webp"
+  },
+  {
+    "id": 37789478,
+    "name": "Snowstorm",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/snowstorm_k_2025_1766173280215.webp"
+  },
+  {
+    "id": 37789479,
+    "name": "Snowstorm",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/snowstorm_k_c_2025_1766173362417.webp"
+  },
+  {
+    "id": 659,
+    "name": "Snowy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowy2017.webp"
+  },
+  {
+    "id": 557,
+    "name": "Snowy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Snowy.webp"
+  },
+  {
+    "id": 830,
+    "name": "Soda",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Cola.webp"
+  },
+  {
+    "id": 37781602,
+    "name": "Soda",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Soda_G_2025.webp"
+  },
+  {
+    "id": 37781601,
+    "name": "Soda",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Soda_K_2025.webp"
+  },
+  {
+    "id": 135,
+    "name": "Soul",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WraithGun.webp"
+  },
+  {
+    "id": 865,
+    "name": "Space",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Space.webp"
+  },
+  {
+    "id": 457,
+    "name": "Sparkle",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sparkle.webp"
+  },
+  {
+    "id": 112,
+    "name": "Sparkle1",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sparkle1.webp"
+  },
+  {
+    "id": 331,
+    "name": "Sparkle10",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sparkle10.webp"
+  },
+  {
+    "id": 568,
+    "name": "Sparkle2",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sparkle2.webp"
+  },
+  {
+    "id": 251,
+    "name": "Sparkle3",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sparkle3.webp"
+  },
+  {
+    "id": 778,
+    "name": "Sparkle4",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sparkle4.webp"
+  },
+  {
+    "id": 379,
+    "name": "Sparkle5",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sparkle5.webp"
+  },
+  {
+    "id": 310,
+    "name": "Sparkle6",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sparkle6.webp"
+  },
+  {
+    "id": 471,
+    "name": "Sparkle7",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sparkle7.webp"
+  },
+  {
+    "id": 685,
+    "name": "Sparkle8",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sparkle8.webp"
+  },
+  {
+    "id": 651,
+    "name": "Sparkle9",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sparkle9.webp"
+  },
+  {
+    "id": 37789461,
+    "name": "Spearmint",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/spearmint_k_2025_1765970547259.webp"
+  },
+  {
+    "id": 37790505,
+    "name": "Spearmint",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/spearmint_g_2025_1771325608528.webp"
+  },
+  {
+    "id": 391,
+    "name": "Spectral",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Spectral_G_2021.webp"
+  },
+  {
+    "id": 157,
+    "name": "Spectral",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Spectral_K_2021.webp"
+  },
+  {
+    "id": 765,
+    "name": "Spectre",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Spectre2022.webp"
+  },
+  {
+    "id": 378,
+    "name": "Spectrum",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Spectrum.webp"
+  },
+  {
+    "id": 878,
+    "name": "Spider",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Spider.webp"
+  },
+  {
+    "id": 579,
+    "name": "Spider",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Spider_K_2023.webp"
+  },
+  {
+    "id": 617,
+    "name": "Spirit",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WraithKnife.webp"
+  },
+  {
+    "id": 860,
+    "name": "Spitfire",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Spitfire.webp"
+  },
+  {
+    "id": 306,
+    "name": "Splash",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Splash_G.webp"
+  },
+  {
+    "id": 928,
+    "name": "Splash",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Splash.webp"
+  },
+  {
+    "id": 377,
+    "name": "Splat",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Splat.webp"
+  },
+  {
+    "id": 240,
+    "name": "Splatter",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Splatter.webp"
+  },
+  {
+    "id": 679,
+    "name": "Splitter",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "vintage",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Knife1.webp"
+  },
+  {
+    "id": 638,
+    "name": "Spring",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Spring_K_2024.webp"
+  },
+  {
+    "id": 312,
+    "name": "Squire",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Squire.webp"
+  },
+  {
+    "id": 656,
+    "name": "Stainless",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stainless.webp"
+  },
+  {
+    "id": 325,
+    "name": "Stalker",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stalker.webp"
+  },
+  {
+    "id": 917,
+    "name": "Star",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Star.webp"
+  },
+  {
+    "id": 451,
+    "name": "Starfish",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Starfish_K_2024.webp"
+  },
+  {
+    "id": 584,
+    "name": "Starfish",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Starfish_G_2024.webp"
+  },
+  {
+    "id": 37790499,
+    "name": "Starry",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/starry_k_valentine_2026_1776175617729.webp"
+  },
+  {
+    "id": 637,
+    "name": "Starry",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Starry_K_2021.webp"
+  },
+  {
+    "id": 284,
+    "name": "Starry",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Starry_G_2020.webp"
+  },
+  {
+    "id": 477,
+    "name": "Starry",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Starry_G_2021.webp"
+  },
+  {
+    "id": 417,
+    "name": "Stars",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stars_K_2023.webp"
+  },
+  {
+    "id": 246,
+    "name": "Stars",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stars_G_2023.webp"
+  },
+  {
+    "id": 690,
+    "name": "Static",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Static.webp"
+  },
+  {
+    "id": 475,
+    "name": "Steel",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Steel_K_2023.webp"
+  },
+  {
+    "id": 344,
+    "name": "Steel",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Steel_G_2023.webp"
+  },
+  {
+    "id": 37789482,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/stickers_g_snow_2025_1766174441264.webp"
+  },
+  {
+    "id": 99,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stickers_Knife_(Summer_2023).webp"
+  },
+  {
+    "id": 37789472,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/stickers_snow_k_2025_1766172578900.webp"
+  },
+  {
+    "id": 37781596,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stickers_G_2025.webp"
+  },
+  {
+    "id": 266,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Summer_Stickers_G_2023.webp"
+  },
+  {
+    "id": 97,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stickers_Gun_(Halloween_2024).webp"
+  },
+  {
+    "id": 37781597,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stickers_K_2025.webp"
+  },
+  {
+    "id": 896,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stickers_X_G_2024.webp"
+  },
+  {
+    "id": 577,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stickers_K_2021.webp"
+  },
+  {
+    "id": 214,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stickers_K_2024.webp"
+  },
+  {
+    "id": 213,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/StickersX_G_2022.webp"
+  },
+  {
+    "id": 37789397,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/stickers_knife_1761167789064.webp"
+  },
+  {
+    "id": 858,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/XmasStickers_G_2021.webp"
+  },
+  {
+    "id": 86,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stickers_Knife_(Halloween_2022).webp"
+  },
+  {
+    "id": 37789457,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/stickers_k_thanksgiving_2025_1765795059032.webp"
+  },
+  {
+    "id": 336,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stickers_G_2021.webp"
+  },
+  {
+    "id": 788,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stickers_X_K_2024.webp"
+  },
+  {
+    "id": 198,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/XmasStickers_K_2021.webp"
+  },
+  {
+    "id": 905,
+    "name": "Stickers",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/StickersX_K_2022.webp"
+  },
+  {
+    "id": 654,
+    "name": "Stockings",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stockings_G_2024.webp"
+  },
+  {
+    "id": 543,
+    "name": "Stockings",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stockings_G_2022.webp"
+  },
+  {
+    "id": 581,
+    "name": "Stockings",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stockings_K_2022.webp"
+  },
+  {
+    "id": 353,
+    "name": "Stockings",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Stockings_K_2020.webp"
+  },
+  {
+    "id": 133,
+    "name": "Storm",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Storm_K_2024.webp"
+  },
+  {
+    "id": 37790495,
+    "name": "Strawberries",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/strawberries_g_valentine_1771321517694.webp"
+  },
+  {
+    "id": 37790500,
+    "name": "Strawberries",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/strawberries_k_valentine_2026_1776463183907.webp"
+  },
+  {
+    "id": 37781598,
+    "name": "Striped",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Striped_K_2025.webp"
+  },
+  {
+    "id": 37781599,
+    "name": "Striped",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Striped_G_2025.webp"
+  },
+  {
+    "id": 801,
+    "name": "Sub",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sub.webp"
+  },
+  {
+    "id": 889,
+    "name": "Sugar",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sugar.webp"
+  },
+  {
+    "id": 324,
+    "name": "Sun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sunset_G_2023.webp"
+  },
+  {
+    "id": 348,
+    "name": "Sunny",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/sunny.webp"
+  },
+  {
+    "id": 37781616,
+    "name": "Sunrise",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SunsetGun.webp"
+  },
+  {
+    "id": 37781617,
+    "name": "Sunrise",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SunsetGunChroma.webp"
+  },
+  {
+    "id": 37790570,
+    "name": "Sunset",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/sunset_g_2026_1784850554894.webp"
+  },
+  {
+    "id": 37781610,
+    "name": "Sunset",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SunsetKnife.webp"
+  },
+  {
+    "id": 37781611,
+    "name": "Sunset",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SunsetKnifeChroma.webp"
+  },
+  {
+    "id": 37789465,
+    "name": "Sweater",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/sweater_g_2025_1765970847570.webp"
+  },
+  {
+    "id": 37789474,
+    "name": "Sweater",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/sweater_k_2025_1766172809060.webp"
+  },
+  {
+    "id": 595,
+    "name": "Sweater",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sweater.webp"
+  },
+  {
+    "id": 694,
+    "name": "Sweater",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sweater_G_2018.webp"
+  },
+  {
+    "id": 752,
+    "name": "Sweater",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sweater_K_2018.webp"
+  },
+  {
+    "id": 37790506,
+    "name": "Sweet",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/sweet_k_valentine_2026_1776463575907.webp"
+  },
+  {
+    "id": 37790529,
+    "name": "Sweet",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/sweet_k_c_valentine_2026_1783596860271.webp"
+  },
+  {
+    "id": 758,
+    "name": "Sweetheart",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Sweetheart.webp"
+  },
+  {
+    "id": 631,
+    "name": "Swirl",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Swirl_K_2021.webp"
+  },
+  {
+    "id": 726,
+    "name": "Swirly Axe",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Swirly_Axe.webp"
+  },
+  {
+    "id": 708,
+    "name": "Swirly Blade",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/SwirlyBlade.webp"
+  },
+  {
+    "id": 639,
+    "name": "Swirly Gun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Chroma_Swirly_Gun.webp"
+  },
+  {
+    "id": 91,
+    "name": "Swirly Gun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/swirly gun.webp"
+  },
+  {
+    "id": 541,
+    "name": "TNL",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/TNL.webp"
+  },
+  {
+    "id": 809,
+    "name": "Tailslide",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Tailslide.webp"
+  },
+  {
+    "id": 410,
+    "name": "Tides",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Tides.webp"
+  },
+  {
+    "id": 402,
+    "name": "Tides",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/TidesChroma.webp"
+  },
+  {
+    "id": 319,
+    "name": "Tiger",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Tiger.webp"
+  },
+  {
+    "id": 37790562,
+    "name": "Tourist",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/tourist_k_2026_1784849427872.webp"
+  },
+  {
+    "id": 333,
+    "name": "Toxic",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ToxicK.webp"
+  },
+  {
+    "id": 647,
+    "name": "Toxic",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ToxicG.webp"
+  },
+  {
+    "id": 442,
+    "name": "Toy",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Toy_G_2023.webp"
+  },
+  {
+    "id": 234,
+    "name": "Toy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Toy_K_2023.webp"
+  },
+  {
+    "id": 163,
+    "name": "Traveler",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Traveler_K_2023.webp"
+  },
+  {
+    "id": 321,
+    "name": "Traveler",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Traveler_G_2023.webp"
+  },
+  {
+    "id": 237,
+    "name": "Traveler's Axe",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Traveler_27s_Axe.webp"
+  },
+  {
+    "id": 179,
+    "name": "Traveler's Gun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/TravelerGun.webp"
+  },
+  {
+    "id": 714,
+    "name": "Traveler's Gun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/TravelerGunChroma.webp"
+  },
+  {
+    "id": 37790507,
+    "name": "Treat",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/treat_g_valentine_2026_1776463395575.webp"
+  },
+  {
+    "id": 37790530,
+    "name": "Treat",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/treat_g_c_valentine_2026_1776463467253.webp"
+  },
+  {
+    "id": 37789455,
+    "name": "Treats",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/treats_1762869245606.webp"
+  },
+  {
+    "id": 37789403,
+    "name": "Treats",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/treatsdsa_1761167923398.webp"
+  },
+  {
+    "id": 750,
+    "name": "Tree",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Tree_G_2022.webp"
+  },
+  {
+    "id": 623,
+    "name": "Tree",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Tree_K_2023.webp"
+  },
+  {
+    "id": 249,
+    "name": "Tree",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Tree2017.webp"
+  },
+  {
+    "id": 303,
+    "name": "Tree",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Tree_K_2022.webp"
+  },
+  {
+    "id": 235,
+    "name": "Tree",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/TreeGun.webp"
+  },
+  {
+    "id": 263,
+    "name": "Tree",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Tree_K_2021.webp"
+  },
+  {
+    "id": 869,
+    "name": "Tree",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Tree.webp"
+  },
+  {
+    "id": 452,
+    "name": "Trees",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Trees_K_2020.webp"
+  },
+  {
+    "id": 37781607,
+    "name": "Tropical",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Tropical_K_2025.webp"
+  },
+  {
+    "id": 522,
+    "name": "Tulip",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Tulip.webp"
+  },
+  {
+    "id": 360,
+    "name": "Turkey",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Turkey2023.webp"
+  },
+  {
+    "id": 376,
+    "name": "Turtle",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Turtle_K_2024.webp"
+  },
+  {
+    "id": 37790565,
+    "name": "Turtles",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/turtles_k_2026_1784850053851.webp"
+  },
+  {
+    "id": 37789416,
+    "name": "UFOs",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ufosasd_1761168147507.webp"
+  },
+  {
+    "id": 37789398,
+    "name": "UFOs",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ufos_1761168132792.webp"
+  },
+  {
+    "id": 205,
+    "name": "Universe",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Universe.webp"
+  },
+  {
+    "id": 566,
+    "name": "Valentine",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Valentine.webp"
+  },
+  {
+    "id": 267,
+    "name": "Vampire",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Vampire_G_2022.webp"
+  },
+  {
+    "id": 429,
+    "name": "Vampire",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Vampire_K_2022.webp"
+  },
+  {
+    "id": 94,
+    "name": "Vampire",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/vampire 2016.webp"
+  },
+  {
+    "id": 898,
+    "name": "Vampire",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/VampireK2018.webp"
+  },
+  {
+    "id": 674,
+    "name": "Vampire",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/VampireG2018.webp"
+  },
+  {
+    "id": 691,
+    "name": "Vampire's Axe",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "ancient",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Vampire_27s_Axe.webp"
+  },
+  {
+    "id": 539,
+    "name": "Vampire's Edge",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Vampire_27s_Edge.webp"
+  },
+  {
+    "id": 194,
+    "name": "Vampire's Gun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/VampireGun.webp"
+  },
+  {
+    "id": 879,
+    "name": "Vampire's Gun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/VampireGunChroma.webp"
+  },
+  {
+    "id": 601,
+    "name": "Vines",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Vines_G_2023.webp"
+  },
+  {
+    "id": 514,
+    "name": "Vines",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Vines_K_2023.webp"
+  },
+  {
+    "id": 798,
+    "name": "Viper",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Viper.webp"
+  },
+  {
+    "id": 428,
+    "name": "Virtual",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Virtual.webp"
+  },
+  {
+    "id": 399,
+    "name": "Void",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/VoidRbx.webp"
+  },
+  {
+    "id": 120,
+    "name": "Vortex",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Vortex.webp"
+  },
+  {
+    "id": 460,
+    "name": "Wanwood",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wanwood.webp"
+  },
+  {
+    "id": 126,
+    "name": "Watcher",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Watcher_Knife_(2020).webp"
+  },
+  {
+    "id": 208,
+    "name": "Watcher",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Watcher_K_2021.webp"
+  },
+  {
+    "id": 805,
+    "name": "Watcher",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Eyes_G_2020.webp"
+  },
+  {
+    "id": 775,
+    "name": "Watcher",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Watcher_G_2021.webp"
+  },
+  {
+    "id": 346,
+    "name": "Watergun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Watergun.webp"
+  },
+  {
+    "id": 139,
+    "name": "Watergun",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WatergunChroma.webp"
+  },
+  {
+    "id": 359,
+    "name": "Waves",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Waves_K_2024.webp"
+  },
+  {
+    "id": 669,
+    "name": "Waves",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Waves_K.webp"
+  },
+  {
+    "id": 820,
+    "name": "Wavy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wavy_K_2024.webp"
+  },
+  {
+    "id": 491,
+    "name": "Wavy",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wavy_G_2024.webp"
+  },
+  {
+    "id": 439,
+    "name": "Web",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Web.webp"
+  },
+  {
+    "id": 904,
+    "name": "Webbed",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WebbedK.webp"
+  },
+  {
+    "id": 245,
+    "name": "Webbed",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WebbedG.webp"
+  },
+  {
+    "id": 599,
+    "name": "Webs",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Webs.webp"
+  },
+  {
+    "id": 453,
+    "name": "Webs",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Webs_G_2022.webp"
+  },
+  {
+    "id": 443,
+    "name": "Whiteout",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Whiteout.webp"
+  },
+  {
+    "id": 851,
+    "name": "Winter's Edge",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WintersEdge.webp"
+  },
+  {
+    "id": 248,
+    "name": "Witch",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Witch.webp"
+  },
+  {
+    "id": 463,
+    "name": "Witch's Brew",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WitchBrew_K_2024.webp"
+  },
+  {
+    "id": 552,
+    "name": "Witchbrew",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Witch_K_2022.webp"
+  },
+  {
+    "id": 921,
+    "name": "Witched",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "legendary",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Witched.webp"
+  },
+  {
+    "id": 352,
+    "name": "Wolf",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wolf.webp"
+  },
+  {
+    "id": 516,
+    "name": "Wood",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wood_K_2023.webp"
+  },
+  {
+    "id": 473,
+    "name": "Wooden",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wooden.webp"
+  },
+  {
+    "id": 137,
+    "name": "Wraith",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wraith_K_2022.webp"
+  },
+  {
+    "id": 706,
+    "name": "Wraith",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wraith_G_2022.webp"
+  },
+  {
+    "id": 169,
+    "name": "Wraiths",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghosts_G_2021.webp"
+  },
+  {
+    "id": 642,
+    "name": "Wraiths",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Ghosts_K_2021.webp"
+  },
+  {
+    "id": 922,
+    "name": "Wrap",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gift_K_2020.webp"
+  },
+  {
+    "id": 185,
+    "name": "Wrap",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Gift_G_2020.webp"
+  },
+  {
+    "id": 260,
+    "name": "Wrapped",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wrapped_K_2024.webp"
+  },
+  {
+    "id": 846,
+    "name": "Wrapped",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wrapped_K_2018.webp"
+  },
+  {
+    "id": 823,
+    "name": "Wrapped",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wrapped_G_2024.webp"
+  },
+  {
+    "id": 893,
+    "name": "Wrapped",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wrapped_G_2018.webp"
+  },
+  {
+    "id": 560,
+    "name": "Wrapped",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/WrappedGun.webp"
+  },
+  {
+    "id": 354,
+    "name": "Wrapped",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wrapped.webp"
+  },
+  {
+    "id": 699,
+    "name": "Wreaths",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Wreaths.webp"
+  },
+  {
+    "id": 384,
+    "name": "Xbox",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Xbox.webp"
+  },
+  {
+    "id": 37789405,
+    "name": "Xeno",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/xenoasd_1761216088550.webp"
+  },
+  {
+    "id": 37789450,
+    "name": "Xeno",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/xeno_knife2025_1761216061877.webp"
+  },
+  {
+    "id": 37789414,
+    "name": "Xenoknife",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/xenoknife_1761168178102.webp"
+  },
+  {
+    "id": 37789415,
+    "name": "Xenoshot",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/xenoshot_1761168296016.webp"
+  },
+  {
+    "id": 287,
+    "name": "Xmas",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Xmas.webp"
+  },
+  {
+    "id": 569,
+    "name": "Yellow",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Yellow_improved.webp"
+  },
+  {
+    "id": 298,
+    "name": "Yellow Seer",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "godly",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Yellow_Seer.webp"
+  },
+  {
+    "id": 37790496,
+    "name": "Yummy",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/yummy_k_valentine_2026_1771322449246.webp"
+  },
+  {
+    "id": 677,
+    "name": "Zombie",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ZombieK2018.webp"
+  },
+  {
+    "id": 499,
+    "name": "Zombie",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ZombieG2018.webp"
+  },
+  {
+    "id": 400,
+    "name": "Zombie",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Zombie_K_2023.webp"
+  },
+  {
+    "id": 165,
+    "name": "Zombie",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/zombie2021.webp"
+  },
+  {
+    "id": 362,
+    "name": "Zombie",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "common",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Zombie.webp"
+  },
+  {
+    "id": 465,
+    "name": "Zombified",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/Zombified_K_2022.webp"
+  },
+  {
+    "id": 446,
+    "name": "Zombified",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ZombifiedG.webp"
+  },
+  {
+    "id": 520,
+    "name": "Zombified",
+    "type": "weapon",
+    "subtype": "knife",
+    "rare": "uncommon",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/ZombifiedK.webp"
+  },
+  {
+    "id": 464,
+    "name": "iRevolver",
+    "type": "weapon",
+    "subtype": "gun",
+    "rare": "rare",
+    "imageUri": "https://cdn.starpets.gg/MM/110x110/iRevolver.webp"
+  }
+]
